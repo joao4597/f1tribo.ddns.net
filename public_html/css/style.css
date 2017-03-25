@@ -1,0 +1,66 @@
+body {
+  width: 100%;
+  margin: 0 auto;
+  text-align: center;
+}
+
+header {
+  background-color: #f00e0e;
+  color: white;
+  font-size: 4em;
+}
+
+header h1 {
+  margin: 0;
+
+}
+
+.driver {
+  width: 512px;
+  float: left;
+}
+.driver2 {
+  width: 512px;
+  float: right;
+}
+
+.team {
+  width: 1024px;
+  margin-left: auto;
+  margin-right: auto;
+  font-size: 2em;
+  position: relative;
+  height: auto;
+  overflow:auto;
+}
+
+.teamimage {
+  position: absolute;
+  top: 100px;
+  left: 412px;
+  width: 200px;
+}
+
+#main {
+  width: 1024px;
+  height: auto;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#driver_standings {
+  float: left;
+  text-align: left;
+  margin-left: 2em;
+  margin-top: 3em; 
+}
+
+footer {
+  padding-top: 1em;
+  padding-bottom: 1em;
+  color: white;
+  display: inline-block;
+  background-color: #f00e0e;
+  width: 100%;
+  margin-top: 1em;
+}
