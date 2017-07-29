@@ -5,13 +5,13 @@ body {
 }
 
 header {
-  background-color: #f00e0e;
-  color: white;
-  font-size: 4em;
+  background-color: #f00e0e !important;
+  color: white !important;
+  font-size: 4em !important;
 }
 
 header h1 {
-  margin: 0;
+  margin: 0 !important;
 
 }
 
